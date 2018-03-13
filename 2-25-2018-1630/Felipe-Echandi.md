@@ -4,7 +4,8 @@
 ![Felipe Echandi](https://github.com/Alexstang/PanamaGlass-Speakers-list/blob/master/felipee-chandi.jpg)
 
 ## [PanaFintech](http://www.panafintech.com/)
-  
+ 
+ 
 ## Topic: Closing Remarks
   
  ### Time: Sun Feb 25th 4:30
